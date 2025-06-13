@@ -49,7 +49,7 @@ def send_to_n8n(to_email, subject, content):
     }
     
     
-    res = requests.post("http://localhost:5678/webhook/send-reply", json=payload)
+    res = requests.post("https://lvh2601.app.n8n.cloud/webhook/send-reply", json=payload)
     print("Đã phản hồi đến n8n:", res.status_code)
 
 if __name__ == "__main__":
