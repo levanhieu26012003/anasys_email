@@ -20,7 +20,6 @@ Dưới đây là hình ảnh sơ đồ xử lý trong **n8n**:
 
 ![n8n workflow](./n8n_flow.png)
 
-> 📌 *Lưu ý: hãy lưu ảnh sơ đồ n8n của bạn dưới tên `n8n-email-flow.png` và đặt vào thư mục `images` trong thư mục gốc của dự án.*
 
 ---
 
